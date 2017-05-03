@@ -1,3 +1,13 @@
 body {
-	background-image: url(https://media.giphy.com/media/ysAWseLFfY98Y/giphy.gif)
+	background-image: url(https://awesomegifs.com/wp-content/uploads/nintendos-world.gif)
+}
+
+.header1 {
+	text-align: center;
+	background-color: silver;
+	}
+
+.section1 {
+	text-align: center;
+	background-color: gold;
 }
