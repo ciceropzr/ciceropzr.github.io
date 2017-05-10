@@ -1,13 +1,53 @@
 body {
-	background-image: url(https://awesomegifs.com/wp-content/uploads/nintendos-world.gif)
+	background-image: url(https://awesomegifs.com/wp-content/uploads/nintendos-world.gif);
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
 }
 
-.header1 {
-	text-align: center;
+header {
+	display: flex;
 	background-color: silver;
-	}
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+main {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
 
 .section1 {
 	text-align: center;
 	background-color: gold;
+	margin: 0;
+	padding: 30px;
+	}
+
+.section2 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
 }
+
+.div1 {
+	display: flex; 
+	justify-content:center;
+	flex-wrap: wrap;
+	width: 50%;
+	align-items: center;
+	}
+
+.div2 {
+	width: 200px;
+	height: 200px;
+	margin: 5px;
+	padding: 0;
+	background-color: tomato;
+	color: white;
+	}
