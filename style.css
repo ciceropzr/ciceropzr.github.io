@@ -1,5 +1,6 @@
 body {
 	background-image: url(https://awesomegifs.com/wp-content/uploads/nintendos-world.gif);
+	font-family: 'Titillium Web', sans-serif;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -33,6 +34,7 @@ main {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	color: red;
 }
 
 .div1 {
