@@ -1,5 +1,5 @@
 body {
-	background-image: url(003.jpg);
+	background-image: url(Imagens/003.jpg);
 	font-family: 'Titillium Web', sans-serif;
 	display: flex;
 	flex-direction: column;
@@ -13,10 +13,6 @@ header {
 	flex-direction: row;
 	justify-content: center;
 	align-items: center;
-}
-
-img {
-
 }
 
 main {
@@ -54,7 +50,6 @@ main {
 	height: 120px;
 	margin: 5px;
 	padding: 4px;
-	background-color: black;
 	color: white;
 	opacity: 0,5;
 	transition: opacity 2s, transform 1s;
